@@ -19,6 +19,6 @@ A Cub3d project tester for 42 School
 ## test-map-errors.sh
 <img src="https://github.com/romslf/cub3d-tester/blob/main/Screenshots/test-map-errors.png?raw=true" />
 
-## test-map-weeeird.sh
+## test-map-weird.sh
 <img src="https://github.com/romslf/cub3d-tester/blob/main/Screenshots/test-map-errors.png?raw=true" />
 
