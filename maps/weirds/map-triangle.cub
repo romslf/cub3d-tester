@@ -1,0 +1,24 @@
+R 500 500
+
+
+NO tests/textures/wall.xpm
+SO tests/textures/bricks.xpm
+WE tests/textures/gold.xpm
+EA tests/textures/wood.xpm
+S tests/textures/enemy.xpm
+F 220,111,119
+C 225,111,0
+
+ 1111111111111111111111
+100000000000S00000000001
+ 1000000000000000000001
+  10000000000000000001
+   100000000000000001
+    1000000000000001
+     10000000000001
+      100000000001
+       1000000001
+        10000001
+         102201
+          1001
+           11
